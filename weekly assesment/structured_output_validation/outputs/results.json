@@ -1,0 +1,72 @@
+[
+    {
+        "ticket": "Hi, my name is Ramesh. My Dell laptop is not starting. Please help urgently.",
+        "result": {
+            "status": "success",
+            "attempts": 2,
+            "data": {
+                "customer_name": "Ramesh",
+                "product": "Dell laptop",
+                "issue_type": "not starting",
+                "urgency": 5,
+                "summary": "Urgent - Dell laptop not starting"
+            }
+        }
+    },
+    {
+        "ticket": "My name is Priya. I purchased a Samsung mobile phone but I want a refund.",
+        "result": {
+            "status": "success",
+            "attempts": 1,
+            "data": {
+                "customer_name": "Priya",
+                "product": "Samsung mobile phone",
+                "issue_type": "Refund",
+                "urgency": 3,
+                "summary": "Refund for Samsung mobile phone"
+            }
+        }
+    },
+    {
+        "ticket": "This is Rahul. I cannot log into my Gmail account. Please help me.",
+        "result": {
+            "status": "success",
+            "attempts": 1,
+            "data": {
+                "customer_name": "Rahul",
+                "product": "Gmail",
+                "issue_type": "Login",
+                "urgency": 2,
+                "summary": "Cannot log into Gmail account"
+            }
+        }
+    },
+    {
+        "ticket": "I am Sneha. My HP printer is showing an error while printing documents.",
+        "result": {
+            "status": "success",
+            "attempts": 1,
+            "data": {
+                "customer_name": "Sneha",
+                "product": "HP printer",
+                "issue_type": "Printing Issue",
+                "urgency": 3,
+                "summary": "Error while printing documents"
+            }
+        }
+    },
+    {
+        "ticket": "My name is Arjun. I need to update my Netflix subscription payment method.",
+        "result": {
+            "status": "success",
+            "attempts": 1,
+            "data": {
+                "customer_name": "Arjun",
+                "product": "Netflix subscription",
+                "issue_type": "Payment method update",
+                "urgency": 2,
+                "summary": "Update payment method for Netflix subscription"
+            }
+        }
+    }
+]

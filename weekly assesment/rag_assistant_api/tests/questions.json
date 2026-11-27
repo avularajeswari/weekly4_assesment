@@ -1,0 +1,43 @@
+
+{
+  "answerable": [
+    {
+      "question": "What is the battery capacity of the laptop?",
+      "expected": "5000 mAh"
+    },
+    {
+      "question": "Which processor does the laptop use?",
+      "expected": "Intel Core i5"
+    },
+    {
+      "question": "How much RAM does the laptop have?",
+      "expected": "8 GB"
+    },
+    {
+      "question": "What is the storage capacity of the laptop?",
+      "expected": "512 GB SSD"
+    },
+    {
+      "question": "What operating system does the laptop use?",
+      "expected": "Windows 11"
+    },
+    {
+      "question": "How long does the laptop take to fully charge?",
+      "expected": "2.5 hours"
+    }
+  ],
+  "unanswerable": [
+    {
+      "question": "What is the price of the laptop?"
+    },
+    {
+      "question": "Who is the CEO of the laptop company?"
+    },
+    {
+      "question": "When was this laptop model released?"
+    },
+    {
+      "question": "Does this laptop have a fingerprint sensor?"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+
+- Billing: Payments, payment methods, refunds, invoices,
+  subscription charges, extra charges, and declined payments.
+- Technical: Application errors, bugs, crashes, server errors,
+  website loading issues, and broken features.
+- Account: Login issues, password resets, account creation,
+  and profile or personal information updates.

@@ -1,0 +1,13 @@
+
+{"ticket":"I was charged twice for my monthly subscription.","category":"Billing"}
+{"ticket":"I want a refund for my recent payment.","category":"Billing"}
+{"ticket":"My invoice shows an incorrect amount.","category":"Billing"}
+{"ticket":"My credit card payment was declined.","category":"Billing"}
+{"ticket":"Please explain the extra charges on my bill.","category":"Billing"}
+{"ticket":"I need to update my subscription payment method.","category":"Billing"}
+{"ticket":"The application crashes whenever I open it.","category":"Technical"}
+{"ticket":"I am getting a server error while uploading files.","category":"Technical"}
+{"ticket":"The website is loading very slowly.","category":"Technical"}
+{"ticket":"The search feature is not working correctly.","category":"Technical"}
+{"ticket":"I cannot reset my account password.","category":"Account"}
+{"ticket":"Please help me update my account email address.","category":"Account"}

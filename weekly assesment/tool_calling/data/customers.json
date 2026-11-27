@@ -1,0 +1,18 @@
+
+[
+    {
+        "customer_id": 1,
+        "name": "Ramesh",
+        "plan": "Basic"
+    },
+    {
+        "customer_id": 2,
+        "name": "Priya",
+        "plan": "Premium"
+    },
+    {
+        "customer_id": 3,
+        "name": "Rahul",
+        "plan": "Standard"
+    }
+]

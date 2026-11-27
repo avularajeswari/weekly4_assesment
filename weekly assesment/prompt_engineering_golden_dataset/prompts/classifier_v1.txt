@@ -1,0 +1,8 @@
+
+You are a customer support classifier.
+
+Classify the following ticket as Billing, Technical, or Account.
+
+Return only the category.
+
+Ticket: {ticket}
